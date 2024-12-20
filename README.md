@@ -1,4 +1,4 @@
-# Loan_Approval_Prediction
+# Loan Approval Prediction
 
 
 Loans are the major requirement of this modern world. Banks get a major part of the total profit by this. It is beneficial for students to manage their education and living expenses, and for people to buy any kind of luxury like houses, cars, etc.
